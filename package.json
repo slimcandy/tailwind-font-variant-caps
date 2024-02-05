@@ -1,6 +1,6 @@
 {
   "name": "tailwind-font-variant-caps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add font-variant-caps utilities to Tailwind CSS",
   "main": "index.js",
   "scripts": {
@@ -17,10 +17,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slimcandy/tailwind-initial-letter.git"
+    "url": "git+https://github.com/slimcandy/tailwind-font-variant-caps.git"
   },
   "bugs": {
-    "url": "https://github.com/slimcandy/tailwind-initial-letter/issues"
+    "url": "https://github.com/slimcandy/tailwind-font-variant-caps/issues"
   },
-  "homepage": "https://github.com/slimcandy/tailwind-initial-letter#readme"
+  "homepage": "https://github.com/slimcandy/tailwind-font-variant-caps#readme"
 }
